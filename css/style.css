@@ -1,0 +1,43 @@
+dt{
+    font-weight: bold;
+    font-size: large;
+}
+
+dd{
+    font-style: italic;
+}
+
+p{
+    font-style: normal;
+}
+
+h1{
+
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    background: rgb(81, 81, 81);
+    color: aliceblue;
+    line-height: 150%;
+
+}
+
+img{
+    width: 300px;
+    padding: 20px;
+    border: dashed rgb(255, 255, 255) 10px;
+    display: auto;
+    margin: auto;
+    display: block;
+}
+li{
+
+    display: inline-block;
+}
